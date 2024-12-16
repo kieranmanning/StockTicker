@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "stockticker"
+version = "0.1.0"
+description = ""
+authors = ["kieranmanning <mail@kmanning.ie>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.13"
+yfinance = "^0.2.50"
+
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.3.4"
+pytest-watch = "^4.2.0"
+ruff = "^0.8.3"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
