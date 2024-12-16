@@ -1,3 +1,8 @@
+# Project specific
+## Secrets file for holding credentials
+secrets.json
+IBpythonclient
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

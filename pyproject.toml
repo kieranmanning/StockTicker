@@ -8,6 +8,7 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.13"
 yfinance = "^0.2.50"
+ib-insync = "^0.9.86"
 
 
 [tool.poetry.group.dev.dependencies]
