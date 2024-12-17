@@ -9,6 +9,7 @@ readme = "README.md"
 python = "^3.13"
 yfinance = "^0.2.50"
 ib-insync = "^0.9.86"
+pre-commit = "^4.0.1"
 
 
 [tool.poetry.group.dev.dependencies]
