@@ -1,4 +1,4 @@
-# from stockticker.clients.IBapi import *
+# from stockticker.clients.IBapi import *
 
 # def test_stockwatcher():
 #     stockwatcher = StockWatcher("VUSA.AS")
